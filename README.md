@@ -4,7 +4,7 @@ description: >-
   learn how to build four different types of applications from start to finish.
 ---
 
-# Getting started with Handshake
+# Getting started
 
 {% hint style="info" %}
 Are you looking for Handshake protocol docs? Check out [hsd-dev.org](https://hsd-dev.org/)
@@ -14,9 +14,9 @@ Are you looking for Handshake protocol docs? Check out [hsd-dev.org](https://hsd
 Not a developer or new to Handshake? Check out the [Namebase Learning Center](https://learn.namebase.io) for tips on how to get started with Handshake, and use your Handshake domains without code.
 {% endhint %}
 
-## Overview
+## Overview of Handshake
 
-> Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems. \
+> Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems.\
 > Source: Handshake Whitepaper
 
 In essence, Handshake takes a core piece of internet infrastructure, DNS's root zone file, and puts it on a blockchain. At a high level, Handshake is _just_ decentralized DNS, but solving the [CA problem](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/) and making it possible to self-custody, use, and transfer names permissionlessly in a publicly-verifiable way opens up exciting applications for developers that weren't feasible before Handshake. We document four of those applications in this guide:
