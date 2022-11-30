@@ -4,7 +4,7 @@ description: >-
   learn how to build four different types of applications from start to finish.
 ---
 
-# Getting started
+# Getting started with Handshake
 
 {% hint style="info" %}
 Are you looking for Handshake protocol docs? Check out [hsd-dev.org](https://hsd-dev.org/)
